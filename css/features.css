@@ -23,6 +23,24 @@
     /* width: calc(); */
 }
 
+.fuater-item-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 0px;
+    background-color: #f4f4fd;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+}
+
+.fuater-img {
+    display: block;
+    /* padding: 24px 100px ; */
+    margin: 24px auto;
+}
+
 .features-subtitle {
     font-weight: 500;
     font-size: 20px;

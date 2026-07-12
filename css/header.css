@@ -82,8 +82,10 @@
 }
 
 .contact-link {
+    display: inline-block;
     font-weight: 400;
     color: var(--color-slate);
+    padding: 24px 0px;
 }
 
 .contact-link:hover,
