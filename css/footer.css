@@ -8,7 +8,7 @@
 
 .footer .container {
     display: flex;
-    align-items: baseline;
+    align-items: flex-start;
 }
 
 .footer-info {
@@ -52,7 +52,7 @@
 
 .footer-social-list {
     display: flex;
-    gap: 24px;
+    gap: 16px;
 }
 
 .footer-social-item {
